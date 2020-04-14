@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744e7482-46dd-4ffe-91b3-95738145d920" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aStGMgFyajGv27qIGHUeRpG5mu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TestDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestDemo" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744e7482-46dd-4ffe-91b3-95738145d920" name="Default Changelist" comment="" />
+      <created>1586740726809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586740726809</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="31" key="#Project_Structure" timestamp="1586740888668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="31" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586740888668" />
+    <state width="1286" height="194" key="GridCell.Tab.0.bottom" timestamp="1586834912861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586834912861" />
+    <state width="1286" height="194" key="GridCell.Tab.0.center" timestamp="1586834912860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586834912860" />
+    <state width="1286" height="194" key="GridCell.Tab.0.left" timestamp="1586834912859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586834912859" />
+    <state width="1286" height="194" key="GridCell.Tab.0.right" timestamp="1586834912860">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586834912860" />
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom" timestamp="1586834912863">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586834912863" />
+    <state width="1286" height="194" key="GridCell.Tab.1.center" timestamp="1586834912861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586834912861" />
+    <state width="1286" height="194" key="GridCell.Tab.1.left" timestamp="1586834912861">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586834912861" />
+    <state width="1286" height="194" key="GridCell.Tab.1.right" timestamp="1586834912862">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="194" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586834912862" />
+    <state x="368" y="12" key="SettingsEditor" timestamp="1586782455744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586782455744" />
+    <state x="667" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1586835020103">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="667" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586835020103" />
+    <state x="749" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586767391682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="749" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1586767391682" />
+    <state x="518" y="230" key="save.project.as.template.dialog" timestamp="1586797289939">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="230" key="save.project.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586797289939" />
+    <state x="980" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586794676909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="980" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586794676909" />
+  </component>
+</project>
