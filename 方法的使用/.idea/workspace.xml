@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="744e7482-46dd-4ffe-91b3-95738145d920" name="Default Changelist" comment="" />
+    <list default="true" id="744e7482-46dd-4ffe-91b3-95738145d920" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +16,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1aStGMgFyajGv27qIGHUeRpG5mu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -95,14 +101,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="368" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586782455744" />
-    <state x="667" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1586835020103">
+    <state x="667" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1586913426236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="667" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586835020103" />
+    <state x="667" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586913426236" />
     <state x="749" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586767391682">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="749" y="43" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1586767391682" />
+    <state x="115" y="0" key="new project wizard" timestamp="1586913475838">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586913475837" />
     <state x="518" y="230" key="save.project.as.template.dialog" timestamp="1586797289939">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
